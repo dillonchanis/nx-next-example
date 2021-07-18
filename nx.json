@@ -33,6 +33,9 @@
     "mysite-e2e": {
       "tags": [],
       "implicitDependencies": ["mysite"]
+    },
+    "shared-components": {
+      "tags": []
     }
   }
 }
